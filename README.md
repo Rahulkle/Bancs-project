@@ -1,4 +1,4 @@
-reate a ubuntu machine 
+Create an ec2 instance through me
 sudo su
 wget https://raw.githubusercontent.com/akshu20791/Deployment-script/main/jenkins.sh
 ls
